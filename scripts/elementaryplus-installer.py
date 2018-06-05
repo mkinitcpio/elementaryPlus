@@ -180,7 +180,7 @@ iconMegaList = [
     [
         "Telegram Desktop",
         "telegram",
-        "/usr/bin/telegram",
+        ["/usr/bin/telegram", "/opt/telegram/telegram"],
         "Telegram is a messaging app with a focus on speed and security, it's super fast, simple and free",
         "telegram",
         "custom"
